@@ -70,7 +70,7 @@ GEM
       nokogiri (>= 1.8.2, < 2.0)
       rubyzip (> 1.1.1, < 2.4)
     hashery (2.1.2)
-    json (2.19.5)
+    json (2.19.9)
     latex-decode (0.4.2)
     logger (1.7.0)
     matrix (0.4.3)
