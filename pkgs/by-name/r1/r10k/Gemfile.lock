@@ -26,7 +26,7 @@ GEM
       fast_gettext (~> 2.1)
       gettext (~> 3.4)
       locale
-    json (2.18.1)
+    json (2.19.9)
     jwt (2.10.2)
       base64
     locale (2.1.4)
